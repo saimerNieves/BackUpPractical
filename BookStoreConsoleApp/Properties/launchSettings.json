@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BookStoreConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "bytitle csv"
+    }
+  }
+}
