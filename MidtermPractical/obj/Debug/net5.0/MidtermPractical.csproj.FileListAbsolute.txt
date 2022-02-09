@@ -1,0 +1,15 @@
+C:\Users\saime\source\repos\MidtermPractical\bin\Debug\net5.0\MidtermPractical.deps.json
+C:\Users\saime\source\repos\MidtermPractical\bin\Debug\net5.0\MidtermPractical.runtimeconfig.json
+C:\Users\saime\source\repos\MidtermPractical\bin\Debug\net5.0\MidtermPractical.runtimeconfig.dev.json
+C:\Users\saime\source\repos\MidtermPractical\bin\Debug\net5.0\MidtermPractical.dll
+C:\Users\saime\source\repos\MidtermPractical\bin\Debug\net5.0\ref\MidtermPractical.dll
+C:\Users\saime\source\repos\MidtermPractical\bin\Debug\net5.0\MidtermPractical.pdb
+C:\Users\saime\source\repos\MidtermPractical\obj\Debug\net5.0\MidtermPractical.csproj.AssemblyReference.cache
+C:\Users\saime\source\repos\MidtermPractical\obj\Debug\net5.0\MidtermPractical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saime\source\repos\MidtermPractical\obj\Debug\net5.0\MidtermPractical.AssemblyInfoInputs.cache
+C:\Users\saime\source\repos\MidtermPractical\obj\Debug\net5.0\MidtermPractical.AssemblyInfo.cs
+C:\Users\saime\source\repos\MidtermPractical\obj\Debug\net5.0\MidtermPractical.csproj.CoreCompileInputs.cache
+C:\Users\saime\source\repos\MidtermPractical\obj\Debug\net5.0\MidtermPractical.dll
+C:\Users\saime\source\repos\MidtermPractical\obj\Debug\net5.0\ref\MidtermPractical.dll
+C:\Users\saime\source\repos\MidtermPractical\obj\Debug\net5.0\MidtermPractical.pdb
+C:\Users\saime\source\repos\MidtermPractical\obj\Debug\net5.0\MidtermPractical.genruntimeconfig.cache
